@@ -8,4 +8,5 @@ Pixel perfect plataform collision for Game Maker Studio 1.4.x and 2.x
 
 A code originally made by Shaun Spalding on Its tutorial.
 
-The code is free to use, No need credits :D
+The code is free to use, No need credits to me,
+But maybe for Shaun. :D
